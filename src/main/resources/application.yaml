@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: arqcontrol
+vaadin:
+  launch-browser: true
